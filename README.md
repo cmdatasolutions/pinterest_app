@@ -19,16 +19,16 @@ You have the right to access, amend, or delete your data at any time. Please con
 ## App Purpose
 
 **Introduction**  
-Artisan Pixel Art Application is designed as an internal tool to support the operational needs of [Your Organization Name]. This application leverages the Pinterest API to enhance our organizational capabilities and streamline specific internal processes.
+Artisan Pixel Art Application is designed as an internal tool to support the operational needs of Artisan Pixel Art. This application leverages the Pinterest API to enhance our organizational capabilities and streamline specific internal processes.
 
 **Scope of Use**  
-The use of Artisan Pixel Art Application is strictly limited to authorized personnel within [Your Organization Name]. This application is not available to the wider public and is intended solely for internal purposes.
+The use of Artisan Pixel Art Application is strictly limited to authorized personnel within Artisan Pixel Art. This application is not available to the wider public and is intended solely for internal purposes.
 
 **Objectives**  
 The primary objective of Artisan Pixel Art Application is to facilitate the integration and utilization of Pinterest-related features within our internal workflows. This includes but is not limited to content curation, project inspiration, and collaboration among teams.
 
 **Access and Security**  
-Access to Artisan Pixel Art Application is restricted through secure authentication mechanisms to ensure that only designated employees of [Your Organization Name] can utilize the application. We maintain stringent security protocols to protect organizational data and ensure compliance with relevant privacy regulations.
+Access to Artisan Pixel Art Application is restricted through secure authentication mechanisms to ensure that only designated employees of Artisan Pixel Art can utilize the application. We maintain stringent security protocols to protect organizational data and ensure compliance with relevant privacy regulations.
 
 **Commitment to Privacy**  
 We are committed to protecting the privacy and security of our data. Artisan Pixel Art Application is developed with robust security features and complies with all applicable legal standards, including GDPR, to safeguard user data and prevent unauthorized access.
