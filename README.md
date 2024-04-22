@@ -1,1 +1,2 @@
-# pinterest_app
+# Artisan Pixel Art - Pinterest Application
+
